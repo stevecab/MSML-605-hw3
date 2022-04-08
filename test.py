@@ -1,4 +1,5 @@
 #COMMENT ADDED AS AN EDIT
+#SHOULD EXIST IN THE BRANCH ONLY
 critics={}
 myfile = open("critics.csv","r")
 lines = myfile.readlines()
