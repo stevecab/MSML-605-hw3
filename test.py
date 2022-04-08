@@ -1,3 +1,4 @@
+#COMMENT ADDED AS AN EDIT
 critics={}
 myfile = open("critics.csv","r")
 lines = myfile.readlines()
